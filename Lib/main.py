@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from tkinter import messagebox
 import selenium.common.exceptions as exc
 import time
